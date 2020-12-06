@@ -1,5 +1,9 @@
 # SharPay
+Our Favourite Blahaj
+!alternate text[https://cdn2.vectorstock.com/i/1000x1000/55/91/happy-shark-cartoon-vector-22975591.jpg]
+
 Electrifying Speed payments
+Payment with speed equivalent to shark's swim speed.
 
 A new Flutter project.
 
