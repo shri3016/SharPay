@@ -1,4 +1,7 @@
 # SharPay
+
+![alternate text](https://cdn2.vectorstock.com/i/1000x1000/55/91/happy-shark-cartoon-vector-22975591.jpg)
+
 Electrifying Speed payments
 
 A new Flutter project.
